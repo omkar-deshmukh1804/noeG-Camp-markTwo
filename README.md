@@ -39,8 +39,7 @@ Run the file Locally
 ## 🚀 About Me
 Just a curios dev. 
 
-
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1PIHmcStYS_VIkb7GuQDGKmStTL09R7bh/view?usp=drive_link)
+![App Screenshot](https://github.com/omkar-deshmukh1804/noeG-Camp-markTwo/assets/58912751/331d374e-1920-41e4-9ec2-670a5d467deb)
 
